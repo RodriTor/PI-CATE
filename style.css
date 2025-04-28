@@ -109,7 +109,7 @@ a {
   }
   
   .grecia .franja {
-    grid-column: 1 / -1;  /* de la columna 1 a la última */
+    grid-column: 1 / 15;  /* de la columna 1 a la última */
   }
   .grecia .franja.fila-1 { grid-row: 1; background: #0D5EAF; }
   .grecia .franja.fila-2 { grid-row: 2; background: white; }
