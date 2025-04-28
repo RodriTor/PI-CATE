@@ -15,6 +15,13 @@ body {
     height: 100%;
     display: grid; 
   }
+a {
+    text-decoration: none;
+  }
+
+  ul {
+    padding: 20px;
+}
   
   /* ITALIA */
 .italia {
